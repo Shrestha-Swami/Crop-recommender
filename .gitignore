@@ -1,0 +1,10 @@
+venv/
+crop/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
+*.pkl
+models/
+.ipynb_checkpoints/
+.env
